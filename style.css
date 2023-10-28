@@ -1,0 +1,13 @@
+body{
+    background-color: darkgray;
+}
+.carousel{
+   margin: 20px auto;
+   border: solid;
+}
+.carousel, .carousel-inner{
+    border-radius: 20px;
+}
+.carousel img{
+    height: 500px;
+}
